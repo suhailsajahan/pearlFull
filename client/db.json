@@ -1,0 +1,123 @@
+{
+  "cards": [
+    {
+      "id": 2,
+      "name": "Name of the card",
+      "type": "Wedding Invitation",
+      "description": "A brief description about the event",
+      "image": "https://image.flaticon.com/icons/png/128/3222/3222306.png",
+      "new": false,
+      "price": "$10"
+    },
+    {
+      "id": 3,
+      "name": "Name of the card",
+      "type": "Conference Invitation",
+      "description": "A brief description about the event",
+      "image": "https://image.flaticon.com/icons/png/128/4414/4414169.png",
+      "new": true,
+      "price": "$11"
+    },
+    {
+      "id": 4,
+      "name": "Name of the card",
+      "type": "Conference Invitation",
+      "description": "A brief description about the event",
+      "image": "https://image.flaticon.com/icons/png/128/4871/4871925.png",
+      "new": false,
+      "price": "$14"
+    },
+    {
+      "id": 5,
+      "name": "Name of the card",
+      "type": "Conference Invitation",
+      "description": "A brief description about the event",
+      "image": "https://image.flaticon.com/icons/png/128/4414/4414169.png",
+      "new": false,
+      "price": "$12"
+    },
+    {
+      "id": 6,
+      "name": "Name of the card",
+      "type": "Wedding Invitation",
+      "description": "A brief description about the event",
+      "image": "https://image.flaticon.com/icons/png/128/1764/1764736.png",
+      "new": false,
+      "price": "$9"
+    },
+    {
+      "name": "New card",
+      "type": "Conference Invitation",
+      "description": "A brief description about the event",
+      "image": "https://image.flaticon.com/icons/png/128/4871/4871925.png",
+      "id": 8,
+      "new": true,
+      "price": "$10"
+    },
+    {
+      "id": 11,
+      "name": "New card",
+      "type": "Conference Invitation",
+      "description": "A brief intro. about the card",
+      "price": "$19",
+      "image": "https://image.flaticon.com/icons/png/128/1764/1764736.png"
+    },
+    {
+      "name": "New card",
+      "type": "Conference Invitation",
+      "description": "A brief description about the event",
+      "image": "https://image.flaticon.com/icons/png/128/4414/4414169.png",
+      "id": 12,
+      "new": true,
+      "price": "$15"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "David Davidson abc",
+      "email": "davidedited@xyz.com",
+      "description": "A brief description about the user, edited"
+    },
+    {
+      "id": 2,
+      "name": "Peter Peterson",
+      "email": "peter@xyz.com",
+      "description": "A brief description about the user"
+    },
+    {
+      "id": 3,
+      "name": "Tom Jason",
+      "email": "tom@xyz.com",
+      "description": "A brief description about the user"
+    },
+    {
+      "id": 4,
+      "name": "Nicholas",
+      "email": "nick@xyz.com",
+      "description": "A brief description about the user"
+    },
+    {
+      "id": 5,
+      "name": "Robin Peterson",
+      "email": "robin@xyz.com",
+      "description": "A brief description about the user"
+    },
+    {
+      "id": 6,
+      "name": "Steven philip",
+      "email": "steven@xyz.com",
+      "description": "A brief description about the user"
+    },
+    {
+      "id": 7,
+      "name": "Tom Jason edited one",
+      "email": "test@xyz.com",
+      "description": "A brief description about the user Edited new"
+    }
+  ],
+  "profile": {
+    "emailId": "admin@abc.com",
+    "password": "admin@123"
+  }
+}
